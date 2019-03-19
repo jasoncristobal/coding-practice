@@ -1,0 +1,43 @@
+Exclaimation removal
+
+function remove(s,n){
+  let arrayed = s.split("");
+  let originalExclaimationCount = 0;
+  let finalExclaimationCount = 0;
+  let output = "";
+  
+  for (let i = 0; i < arrayed.length; i++) {
+    if (arrayed[i] === "!") {
+    originalExclaimationCount++;
+    }
+  } 
+  
+  let finalExclaimationMax = originalExclaimationCount - n; // if negative, then zero "!" in output
+  
+  for (let i = 0; i < arrayed.length; i++) {
+
+    if (arrayed[i] !== "!") {
+      output += arrayed[i];
+    } else if (arrayed[i] === "!" && (finalExclaimationCount < finalExclaimationMax)) {
+      finalExclaimationCount++;
+      output += arrayed[i];
+    } 
+  
+  } return output;
+
+}
+
+
+
+Every 2nd element removal
+
+function removeEveryOther(arr){
+  let myArr = [];
+  
+  for (let i = 0; i < arr.length; i++) {
+    if ((arr.indexOf(arr[i])+1) % 2 !== 0) {
+      myArr.push(arr[i]);
+    }
+  } return myArr;
+  
+}
