@@ -26,3 +26,6 @@ https://www.codewars.com/kata/57238ceaef9008adc7000603
 
 Military time
 https://www.codewars.com/kata/what-time-is-it
+
+NBA game average
+https://www.codewars.com/kata/nba-full-48-minutes-average
