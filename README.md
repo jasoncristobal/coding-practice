@@ -29,3 +29,6 @@ https://www.codewars.com/kata/what-time-is-it
 
 NBA game average
 https://www.codewars.com/kata/nba-full-48-minutes-average
+
+Powers of 2
+https://www.codewars.com/kata/powers-of-2
