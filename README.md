@@ -32,3 +32,6 @@ https://www.codewars.com/kata/nba-full-48-minutes-average
 
 Powers of 2
 https://www.codewars.com/kata/powers-of-2
+
+Father and son 
+https://www.codewars.com/kata/coding-3min-father-and-son
