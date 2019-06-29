@@ -38,3 +38,6 @@ https://www.codewars.com/kata/coding-3min-father-and-son
 
 Back to the future
 https://www.codewars.com/kata/back-to-the-future
+
+Supersize integer
+https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer
