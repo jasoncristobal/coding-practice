@@ -21,7 +21,7 @@ https://www.codewars.com/kata/training-js-number-23-methods-of-arrayobject-push-
 Convert number to reversed array
 https://www.codewars.com/kata/5583090cbe83f4fd8c000051
 
-Methods of number 
+Methods of number 1
 https://www.codewars.com/kata/57238ceaef9008adc7000603
 
 Military time
@@ -44,3 +44,6 @@ https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-thi
 
 Hacker and change
 https://www.codewars.com/kata/coding-3min-hacker-and-change
+
+Methods of number 2
+https://www.codewars.com/kata/training-js-number-15-methods-of-number-object-tofixed-toexponential-and-toprecision
