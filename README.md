@@ -47,3 +47,6 @@ https://www.codewars.com/kata/coding-3min-hacker-and-change
 
 Methods of number 2
 https://www.codewars.com/kata/training-js-number-15-methods-of-number-object-tofixed-toexponential-and-toprecision
+
+Fix phone numbers
+https://www.codewars.com/kata/fix-my-phone-numbers
