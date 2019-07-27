@@ -50,3 +50,6 @@ https://www.codewars.com/kata/training-js-number-15-methods-of-number-object-tof
 
 Fix phone numbers
 https://www.codewars.com/kata/fix-my-phone-numbers
+
+First odd digits
+https://www.codewars.com/kata/give-me-the-k-first-digits-odd-digits
