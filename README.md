@@ -53,3 +53,6 @@ https://www.codewars.com/kata/fix-my-phone-numbers
 
 First odd digits
 https://www.codewars.com/kata/give-me-the-k-first-digits-odd-digits
+
+Chicken sexing
+https://www.codewars.com/kata/chicken-sexing
